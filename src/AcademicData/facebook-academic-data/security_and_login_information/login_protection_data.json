@@ -1,0 +1,41 @@
+{
+  "login_protection_data_v2": [
+    {
+      "name": "Cookie: AU_p********************",
+      "session": {
+        "created_timestamp": 1604587343,
+        "updated_timestamp": 1624124001,
+        "ip_address": "109.76.165.147"
+      }
+    },
+    {
+      "name": "IP address: 109.77.133.139",
+      "session": {
+        "created_timestamp": 1624124001,
+        "ip_address": "109.77.133.139"
+      }
+    },
+    {
+      "name": "Estimated location inferred from IP 53.456, -6.2",
+      "session": {
+        "created_timestamp": 1604587343,
+        "updated_timestamp": 1624124001,
+        "ip_address": "109.76.165.147"
+      }
+    },
+    {
+      "name": "IP address: 93.107.81.120",
+      "session": {
+        "created_timestamp": 1622645438,
+        "ip_address": "93.107.81.120"
+      }
+    },
+    {
+      "name": "IP address: 109.76.165.147",
+      "session": {
+        "created_timestamp": 1604587343,
+        "ip_address": "109.76.165.147"
+      }
+    }
+  ]
+}

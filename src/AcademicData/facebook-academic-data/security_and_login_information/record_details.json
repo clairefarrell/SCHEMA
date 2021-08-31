@@ -1,0 +1,60 @@
+{
+  "admin_records_v2": [
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1623004382,
+        "ip_address": "93.107.81.120",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+        "datr_cookie": "AU_p********************"
+      }
+    },
+    {
+      "event": "Password Change",
+      "session": {
+        "created_timestamp": 1622645439,
+        "ip_address": "93.107.81.120",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+        "datr_cookie": "AU_p********************"
+      }
+    },
+    {
+      "event": "Username",
+      "session": {
+        "created_timestamp": 1604587382,
+        "ip_address": "109.76.165.147",
+        "user_agent": "",
+        "datr_cookie": ""
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "claire.farrell.1610",
+        "old_email": "",
+        "new_email": "",
+        "new_number": ""
+      }
+    },
+    {
+      "event": "Email change",
+      "session": {
+        "created_timestamp": 1604587377,
+        "ip_address": "109.76.165.147",
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36",
+        "datr_cookie": "AU_p********************"
+      },
+      "extra_info": {
+        "old_name": "",
+        "new_name": "",
+        "old_number": "",
+        "old_vanity": "",
+        "new_vanity": "",
+        "old_email": "",
+        "new_email": "farrec26@tcd.ie",
+        "new_number": ""
+      }
+    }
+  ]
+}

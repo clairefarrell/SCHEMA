@@ -1,0 +1,55 @@
+{
+  "profile_updates_v2": [
+    {
+      "timestamp": 1604587406,
+      "attachments": [
+        {
+          "data": [
+            {
+              "media": {
+                "uri": "photos_and_videos/Profilepictures_Stsc2urAqg/123633305_101083238485057_6386053876540442909_n_101083235151724.jpg",
+                "creation_timestamp": 1604587406,
+                "media_metadata": {
+                  "photo_metadata": {
+                    "exif_data": [
+                      {
+                        "upload_ip": "109.76.165.147",
+                        "taken_timestamp": 1604587408
+                      }
+                    ]
+                  }
+                },
+                "title": "Profile pictures"
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Claire Farrell updated her profile picture."
+    },
+    {
+      "timestamp": 1604587343,
+      "attachments": [
+        {
+          "data": [
+            {
+              "life_event": {
+                "title": "Born on 13 June 1998",
+                "start_date": {
+                  "year": 1998,
+                  "month": 6,
+                  "day": 13
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "data": [
+        {
+          "backdated_timestamp": 897721200
+        }
+      ]
+    }
+  ]
+}

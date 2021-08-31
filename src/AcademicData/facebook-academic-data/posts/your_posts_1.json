@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": 1624124268,
+    "data": [
+      {
+        "post": "This post has comments and likes on it."
+      }
+    ],
+    "title": "Claire Farrell updated her status."
+  },
+  {
+    "timestamp": 1624124230,
+    "attachments": [
+      {
+        "data": [
+          {
+            "external_context": {
+              "url": "https://media3.giphy.com/media/v1.Y2lkPTEyMGMwMTQ3aHFuNXVubXU5NW5obXFxY3JuZ3VuYXB4ZTBidnRhcXczeWZjaWE5NCZjdD1n/fK3hOZ1L5rQjjROgBM/giphy.gif"
+            }
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "post": "This post attaches a gif."
+      },
+      {
+        "update_timestamp": 1624124230
+      }
+    ]
+  },
+  {
+    "timestamp": 1624124188,
+    "data": [
+      {
+        "post": "This post attaches an activity."
+      }
+    ],
+    "title": "Claire Farrell is celebrating this special day."
+  },
+  {
+    "timestamp": 1624124153,
+    "data": [
+      {
+        "post": "This post attaches a feeling."
+      }
+    ],
+    "title": "Claire Farrell is feeling happy."
+  },
+  {
+    "timestamp": 1624124131,
+    "attachments": [
+      {
+        "data": [
+          {
+            "place": {
+              "name": "Trinity College, Dublin",
+              "coordinate": {
+                "latitude": 53.344194708628,
+                "longitude": -6.2576147741306
+              },
+              "address": "College Green, Dublin, Ireland"
+            }
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "place": {
+              "name": "Trinity College, Dublin",
+              "coordinate": {
+                "latitude": 53.344194708628,
+                "longitude": -6.2576147741306
+              },
+              "address": "College Green, Dublin, Ireland",
+              "url": "https://www.facebook.com/pages/Trinity-College-Dublin/163803993646187"
+            }
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "post": "This post attaches location data."
+      }
+    ],
+    "title": "Claire Farrell is at Trinity College, Dublin."
+  },
+  {
+    "timestamp": 1624124102,
+    "data": [
+      {
+        "post": "This post is posed as a Q&A."
+      }
+    ],
+    "title": "Claire Farrell is answering questions."
+  },
+  {
+    "timestamp": 1624124057,
+    "attachments": [
+      {
+        "data": [
+          {
+            "media": {
+              "uri": "photos_and_videos/TimelinePhotos_-ACaR5aASw/202402398_260681169191929_7065152841009160130_n_260681165858596.jpg",
+              "creation_timestamp": 1624124054,
+              "media_metadata": {
+                "photo_metadata": {
+                  "exif_data": [
+                    {
+                      "upload_ip": "109.77.133.139",
+                      "taken_timestamp": 1624124057,
+                      "orientation": 1
+                    }
+                  ]
+                }
+              },
+              "title": "Timeline Photos",
+              "description": "This is a post that has an image as an attachment."
+            }
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "post": "This is a post that has an image as an attachment."
+      }
+    ]
+  },
+  {
+    "timestamp": 1624124027,
+    "data": [
+      {
+        "post": "This is an example post that only contains text."
+      }
+    ],
+    "title": "Claire Farrell updated her status."
+  }
+]

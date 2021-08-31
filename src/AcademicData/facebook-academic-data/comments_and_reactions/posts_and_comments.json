@@ -1,0 +1,52 @@
+{
+  "reactions_v2": [
+    {
+      "timestamp": 1624124271,
+      "data": [
+        {
+          "reaction": {
+            "reaction": "LIKE",
+            "actor": "Claire Farrell"
+          }
+        }
+      ],
+      "title": "Claire Farrell likes her own post."
+    },
+    {
+      "timestamp": 1624124252,
+      "data": [
+        {
+          "reaction": {
+            "reaction": "LIKE",
+            "actor": "Claire Farrell"
+          }
+        }
+      ],
+      "title": "Claire Farrell likes her own post."
+    },
+    {
+      "timestamp": 1624124250,
+      "data": [
+        {
+          "reaction": {
+            "reaction": "LIKE",
+            "actor": "Claire Farrell"
+          }
+        }
+      ],
+      "title": "Claire Farrell likes her own post."
+    },
+    {
+      "timestamp": 1624124249,
+      "data": [
+        {
+          "reaction": {
+            "reaction": "LIKE",
+            "actor": "Claire Farrell"
+          }
+        }
+      ],
+      "title": "Claire Farrell likes her own post."
+    }
+  ]
+}

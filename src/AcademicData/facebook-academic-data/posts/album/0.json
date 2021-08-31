@@ -1,0 +1,37 @@
+{
+  "name": "Profile pictures",
+  "photos": [
+    {
+      "uri": "photos_and_videos/Profilepictures_Stsc2urAqg/123633305_101083238485057_6386053876540442909_n_101083235151724.jpg",
+      "creation_timestamp": 1604587406,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "upload_ip": "109.76.165.147",
+              "taken_timestamp": 1604587408
+            }
+          ]
+        }
+      },
+      "title": "Profile pictures"
+    }
+  ],
+  "cover_photo": {
+    "uri": "photos_and_videos/Profilepictures_Stsc2urAqg/123633305_101083238485057_6386053876540442909_n_101083235151724.jpg",
+    "creation_timestamp": 1604587406,
+    "media_metadata": {
+      "photo_metadata": {
+        "exif_data": [
+          {
+            "upload_ip": "109.76.165.147",
+            "taken_timestamp": 1604587408
+          }
+        ]
+      }
+    },
+    "title": "Profile pictures"
+  },
+  "last_modified_timestamp": 1604587408,
+  "description": ""
+}

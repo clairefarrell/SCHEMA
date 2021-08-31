@@ -1,0 +1,15 @@
+{
+  "active_sessions_v2": [
+    {
+      "created_timestamp": 1623004383,
+      "updated_timestamp": 1624124001,
+      "ip_address": "109.77.133.139",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36",
+      "datr_cookie": "AU_p********************",
+      "device": "Mac",
+      "location": "Malahide, Ireland",
+      "app": "Chrome",
+      "session_type": "web"
+    }
+  ]
+}

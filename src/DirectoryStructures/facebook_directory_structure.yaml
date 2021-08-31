@@ -1,0 +1,94 @@
+facebook-academic-data:
+- friends_and_followers:
+  - no-data.txt
+- preferences:
+  - language_and_locale.json
+- messages:
+  - autofill_information.json
+- apps_and_websites_off_of_facebook:
+  - your_off-facebook_activity.json
+- posts:
+  - album:
+    - 0.json
+    - 1.json
+  - your_posts_1.json
+- other_activity:
+  - no-data.txt
+- comments_and_reactions:
+  - comments.json
+  - posts_and_comments.json
+- music_recommendations:
+  - no-data.txt
+- location:
+  - timezone.json
+  - primary_location.json
+- your_topics:
+  - no-data.txt
+- other_logged_information:
+  - friend_peer_group.json
+- polls:
+  - no-data.txt
+- groups:
+  - no-data.txt
+- your_interactions_on_facebook:
+  - no-data.txt
+- saved_items_and_collections:
+  - no-data.txt
+- people_and_friends:
+  - no-data.txt
+- search:
+  - no-data.txt
+- facebook_gaming:
+  - no-data.txt
+- facebook_marketplace:
+  - no-data.txt
+- facebook_accounts_center:
+  - no-data.txt
+- stories:
+  - no-data.txt
+- short_videos:
+  - no-data.txt
+- photos_and_videos:
+  - TimelinePhotos_-ACaR5aASw:
+    - 202402398_260681169191929_7065152841009160130_n_260681165858596.jpg
+  - Profilepictures_Stsc2urAqg:
+    - 123633305_101083238485057_6386053876540442909_n_101083235151724.jpg
+- security_and_login_information:
+  - ip_address_activity.json
+  - your_facebook_activity_history.json
+  - record_details.json
+  - browser_cookies.json
+  - account_activity.json
+  - email_address_verifications.json
+  - logins_and_logouts.json
+  - where_you're_logged_in.json
+  - login_protection_data.json
+- fundraisers:
+  - no-data.txt
+- profile_information:
+  - profile_information.json
+  - profile_update_history.json
+- ads_information:
+  - no-data.txt
+- facebook_payments:
+  - payment_history.json
+- activity_messages:
+  - people_and_friends.json
+- events:
+  - no-data.txt
+- privacy_checkup:
+  - no-data.txt
+- pages:
+  - no-data.txt
+- other_personal_information:
+  - no-data.txt
+- journalist_registration:
+  - no-data.txt
+- notifications:
+  - notifications.json
+- bug_bounty:
+  - no-data.txt
+- your_places:
+  - no-data.txt
+- your_problem_reports:
+  - no-data.txt

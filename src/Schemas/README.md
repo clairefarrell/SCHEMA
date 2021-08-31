@@ -1,0 +1,1 @@
+This folder contains the subfolders for the variety of verticals that may be incoporated in future works.
